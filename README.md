@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Evrenturasay
+# 👋 Merhaba, ben Evren Turasay
 
 💻 Başkent Üniversitesi (Tam Burslu) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 🚀 Yazılım geliştirme yolculuğumda birçok dil ve teknolojide tecrübem var.

@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Evrenturasay
 
-💻 **Full Stack Developer** olarak çalışıyorum.  
+💻 Başkent Üniversitesi (Tam Burslu) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 🚀 Yazılım geliştirme yolculuğumda birçok dil ve teknolojide tecrübem var.
 
 ---
@@ -27,8 +27,8 @@
 ---
 
 ## 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmailin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evrenturasay/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evrenturasay@gmail.com)
 
 ---
 

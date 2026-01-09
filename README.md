@@ -28,8 +28,6 @@
 
 ## 📊 GitHub İstatistiklerim
 
-> **Not:** Eğer istatistikler hala görünmüyorsa GitHub kullanıcı adının "evrenturasay" olduğundan emin ol.
-
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=evrenturasay&show_icons=true&theme=tokyonight&count_private=true" alt="Evren GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrenturasay&layout=compact&theme=tokyonight" alt="Top Languages" />

@@ -28,10 +28,9 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=evrenturasay&show_icons=true&theme=tokyonight&count_private=true" alt="Evren GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrenturasay&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Evren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evrenturasay&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evrenturasay&layout=compact&theme=tokyonight)
 
 ---
 

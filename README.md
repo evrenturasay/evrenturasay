@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![Evren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evrenturasay&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evrenturasay&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evrenturasay/)
 
